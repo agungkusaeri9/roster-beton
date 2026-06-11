@@ -1,0 +1,478 @@
+[
+  {
+    "id": 1,
+    "name": "Roster Motif Kotak",
+    "slug": "roster-motif-kotak",
+    "image": "/images/products/galprod-17.jpeg",
+    "category": "Motif Klasik",
+    "description": "Roster beton dengan motif kotak klasik yang cocok untuk berbagai jenis bangunan. Dibuat dengan material berkualitas tinggi dan proses produksi yang modern, roster ini menawarkan daya tahan yang luar biasa dan estetika yang menarik.",
+    "gallery": [
+      "/images/products/galprod-17.jpeg",
+      "/images/products/galprod-18.jpeg",
+      "/images/products/galprod-19.jpeg",
+      "/images/products/galprod-20.jpeg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Roster Motif Bunga",
+    "slug": "roster-motif-bunga",
+    "image": "/images/products/galprod-18.jpeg",
+    "category": "Motif Floral",
+    "description": "Roster beton dengan motif bunga yang indah dan elegan. Memberikan sentuhan keindahan alam pada bangunan Anda. Perfect untuk pagar, ventilasi, dan dekorasi rumah.",
+    "gallery": [
+      "/images/products/galprod-18.jpeg",
+      "/images/products/galprod-22.jpeg",
+      "/images/products/galprod-23.jpeg",
+      "/images/products/galprod-24.jpeg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Roster Minimalis Modern",
+    "slug": "roster-minimalis-modern",
+    "image": "/images/products/galprod-19.jpeg",
+    "category": "Minimalis",
+    "description": "Desain roster minimalis yang modern dan clean, ideal untuk rumah dengan konsep modern atau skandinavia. Memberikan kesan luas dan nyaman.",
+    "gallery": [
+      "/images/products/galprod-19.jpeg",
+      "/images/products/galprod-25.jpeg",
+      "/images/products/galprod-26.jpeg",
+      "/images/products/galprod-27.jpeg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Roster Geometri",
+    "slug": "roster-geometri",
+    "image": "/images/products/galprod-20.jpeg",
+    "category": "Geometri",
+    "description": "Motif geometri yang unik dan menarik. Cocok untuk bangunan dengan desain arsitektur modern dan artistik.",
+    "gallery": [
+      "/images/products/galprod-20.jpeg",
+      "/images/products/galprod-32.jpeg",
+      "/images/products/galprod-33.jpeg",
+      "/images/products/galprod-34.jpeg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Roster Klasik Elegan",
+    "slug": "roster-klasik-elegan",
+    "image": "/images/products/galprod-22.jpeg",
+    "category": "Klasik",
+    "description": "Roster beton dengan desain klasik yang elegan dan timeless. Memberikan nuansa mewah pada rumah Anda.",
+    "gallery": [
+      "/images/products/galprod-22.jpeg",
+      "/images/products/galprod-35.jpeg",
+      "/images/products/galprod-36.jpeg",
+      "/images/products/galprod-37.jpeg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Roster Premium",
+    "slug": "roster-premium",
+    "image": "/images/products/galprod-23.jpeg",
+    "category": "Premium",
+    "description": "Kualitas terbaik dengan finishing premium, cocok untuk proyek-proyek besar dan bangunan mewah.",
+    "gallery": [
+      "/images/products/galprod-23.jpeg",
+      "/images/products/galprod-39.jpeg",
+      "/images/products/galprod-40.jpeg",
+      "/images/products/galprod-44.jpeg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Roster Tradisional",
+    "slug": "roster-tradisional",
+    "image": "/images/products/galprod-24.jpeg",
+    "category": "Tradisional",
+    "description": "Motif tradisional yang kaya akan budaya dan seni lokal. Perfect untuk rumah dengan konsep adat Jawa.",
+    "gallery": [
+      "/images/products/galprod-24.jpeg",
+      "/images/products/galprod-47.jpeg",
+      "/images/products/galprod-48.jpeg",
+      "/images/products/galprod-50.jpeg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Roster Kotak Besar",
+    "slug": "roster-kotak-besar",
+    "image": "/images/products/galprod-25.jpeg",
+    "category": "Ukuran Besar",
+    "description": "Roster beton dengan ukuran besar, cocok untuk area yang luas seperti pagar gedung atau pabrik.",
+    "gallery": [
+      "/images/products/galprod-25.jpeg",
+      "/images/products/galprod-51.jpeg",
+      "/images/products/galprod-53.jpeg",
+      "/images/products/galprod-54.jpeg"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Roster Motif Daun",
+    "slug": "roster-motif-daun",
+    "image": "/images/products/galprod-26.jpeg",
+    "category": "Motif Alam",
+    "description": "Inspirasi dari alam dengan motif daun yang natural dan menawan.",
+    "gallery": [
+      "/images/products/galprod-26.jpeg",
+      "/images/products/galprod-55.jpeg",
+      "/images/products/galprod-56.jpeg",
+      "/images/products/galprod-57.jpeg"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Roster Modern Minimalis",
+    "slug": "roster-modern-minimalis",
+    "image": "/images/products/galprod-27.jpeg",
+    "category": "Minimalis",
+    "description": "Desain modern minimalis dengan garis-garis yang bersih dan rapi.",
+    "gallery": [
+      "/images/products/galprod-27.jpeg",
+      "/images/products/galprod-58.jpeg",
+      "/images/products/galprod-59.jpeg",
+      "/images/products/galprod-17.jpeg"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Roster Kotak Kecil",
+    "slug": "roster-kotak-kecil",
+    "image": "/images/products/galprod-28.jpeg",
+    "category": "Ukuran Kecil",
+    "description": "Ukuran kecil yang cocok untuk area terbatas seperti jendela atau ventilasi kamar tidur.",
+    "gallery": [
+      "/images/products/galprod-28.jpeg",
+      "/images/products/galprod-29.jpeg",
+      "/images/products/galprod-31.jpeg",
+      "/images/products/galprod-32.jpeg"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Roster Motif Bintang",
+    "slug": "roster-motif-bintang",
+    "image": "/images/products/galprod-29.jpeg",
+    "category": "Motif Unik",
+    "description": "Motif bintang yang unik dan menarik, cocok untuk dekorasi anak-anak atau tempat bermain.",
+    "gallery": [
+      "/images/products/galprod-29.jpeg",
+      "/images/products/galprod-33.jpeg",
+      "/images/products/galprod-34.jpeg",
+      "/images/products/galprod-35.jpeg"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Roster Premium Klasik",
+    "slug": "roster-premium-klasik",
+    "image": "/images/products/galprod-31.jpeg",
+    "category": "Premium",
+    "description": "Kualitas premium dengan desain klasik yang elegan.",
+    "gallery": [
+      "/images/products/galprod-31.jpeg",
+      "/images/products/galprod-36.jpeg",
+      "/images/products/galprod-37.jpeg",
+      "/images/products/galprod-38.jpeg"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Roster Geometri Modern",
+    "slug": "roster-geometri-modern",
+    "image": "/images/products/galprod-32.jpeg",
+    "category": "Geometri",
+    "description": "Motif geometri dengan sentuhan modern.",
+    "gallery": [
+      "/images/products/galprod-32.jpeg",
+      "/images/products/galprod-39.jpeg",
+      "/images/products/galprod-40.jpeg",
+      "/images/products/galprod-44.jpeg"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Roster Kotak Medium",
+    "slug": "roster-kotak-medium",
+    "image": "/images/products/galprod-33.jpeg",
+    "category": "Ukuran Medium",
+    "description": "Ukuran medium yang fleksibel untuk berbagai kebutuhan.",
+    "gallery": [
+      "/images/products/galprod-33.jpeg",
+      "/images/products/galprod-47.jpeg",
+      "/images/products/galprod-48.jpeg",
+      "/images/products/galprod-50.jpeg"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Roster Motif Segitiga",
+    "slug": "roster-motif-segitiga",
+    "image": "/images/products/galprod-34.jpeg",
+    "category": "Geometri",
+    "description": "Motif segitiga yang dinamis dan energik.",
+    "gallery": [
+      "/images/products/galprod-34.jpeg",
+      "/images/products/galprod-51.jpeg",
+      "/images/products/galprod-53.jpeg",
+      "/images/products/galprod-54.jpeg"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Roster Elegan",
+    "slug": "roster-elegan",
+    "image": "/images/products/galprod-35.jpeg",
+    "category": "Elegan",
+    "description": "Desain elegan yang menambah keindahan bangunan Anda.",
+    "gallery": [
+      "/images/products/galprod-35.jpeg",
+      "/images/products/galprod-55.jpeg",
+      "/images/products/galprod-56.jpeg",
+      "/images/products/galprod-57.jpeg"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Roster Minimalis Putih",
+    "slug": "roster-minimalis-putih",
+    "image": "/images/products/galprod-36.jpeg",
+    "category": "Minimalis",
+    "description": "Warna putih yang bersih dengan desain minimalis.",
+    "gallery": [
+      "/images/products/galprod-36.jpeg",
+      "/images/products/galprod-58.jpeg",
+      "/images/products/galprod-59.jpeg",
+      "/images/products/galprod-17.jpeg"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Roster Klasik Tradisional",
+    "slug": "roster-klasik-tradisional",
+    "image": "/images/products/galprod-37.jpeg",
+    "category": "Tradisional",
+    "description": "Kombinasi desain klasik dengan sentuhan tradisional.",
+    "gallery": [
+      "/images/products/galprod-37.jpeg",
+      "/images/products/galprod-18.jpeg",
+      "/images/products/galprod-19.jpeg",
+      "/images/products/galprod-20.jpeg"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Roster Motif Lingkaran",
+    "slug": "roster-motif-lingkaran",
+    "image": "/images/products/galprod-38.jpeg",
+    "category": "Geometri",
+    "description": "Motif lingkaran yang lembut dan elegan.",
+    "gallery": [
+      "/images/products/galprod-38.jpeg",
+      "/images/products/galprod-22.jpeg",
+      "/images/products/galprod-23.jpeg",
+      "/images/products/galprod-24.jpeg"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Roster Premium Modern",
+    "slug": "roster-premium-modern",
+    "image": "/images/products/galprod-39.jpeg",
+    "category": "Premium",
+    "description": "Kualitas premium dengan desain modern terbaru.",
+    "gallery": [
+      "/images/products/galprod-39.jpeg",
+      "/images/products/galprod-25.jpeg",
+      "/images/products/galprod-26.jpeg",
+      "/images/products/galprod-27.jpeg"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Roster Kotak Elegan",
+    "slug": "roster-kotak-elegan",
+    "image": "/images/products/galprod-40.jpeg",
+    "category": "Elegan",
+    "description": "Motif kotak dengan sentuhan elegan.",
+    "gallery": [
+      "/images/products/galprod-40.jpeg",
+      "/images/products/galprod-32.jpeg",
+      "/images/products/galprod-33.jpeg",
+      "/images/products/galprod-34.jpeg"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Roster Motif Alam",
+    "slug": "roster-motif-alam",
+    "image": "/images/products/galprod-44.jpeg",
+    "category": "Motif Alam",
+    "description": "Inspirasi dari alam dengan motif yang natural.",
+    "gallery": [
+      "/images/products/galprod-44.jpeg",
+      "/images/products/galprod-35.jpeg",
+      "/images/products/galprod-36.jpeg",
+      "/images/products/galprod-37.jpeg"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Roster Tradisional Klasik",
+    "slug": "roster-tradisional-klasik",
+    "image": "/images/products/galprod-47.jpeg",
+    "category": "Tradisional",
+    "description": "Desain tradisional klasik yang kaya akan budaya.",
+    "gallery": [
+      "/images/products/galprod-47.jpeg",
+      "/images/products/galprod-39.jpeg",
+      "/images/products/galprod-40.jpeg",
+      "/images/products/galprod-44.jpeg"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Roster Modern Geometri",
+    "slug": "roster-modern-geometri",
+    "image": "/images/products/galprod-48.jpeg",
+    "category": "Geometri",
+    "description": "Motif geometri dengan nuansa modern.",
+    "gallery": [
+      "/images/products/galprod-48.jpeg",
+      "/images/products/galprod-47.jpeg",
+      "/images/products/galprod-48.jpeg",
+      "/images/products/galprod-50.jpeg"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Roster Minimalis Elegan",
+    "slug": "roster-minimalis-elegan",
+    "image": "/images/products/galprod-50.jpeg",
+    "category": "Minimalis",
+    "description": "Kombinasi minimalis dan elegan.",
+    "gallery": [
+      "/images/products/galprod-50.jpeg",
+      "/images/products/galprod-51.jpeg",
+      "/images/products/galprod-53.jpeg",
+      "/images/products/galprod-54.jpeg"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Roster Premium Klasik",
+    "slug": "roster-premium-klasik-2",
+    "image": "/images/products/galprod-51.jpeg",
+    "category": "Premium",
+    "description": "Kualitas premium dengan desain klasik yang timeless.",
+    "gallery": [
+      "/images/products/galprod-51.jpeg",
+      "/images/products/galprod-55.jpeg",
+      "/images/products/galprod-56.jpeg",
+      "/images/products/galprod-57.jpeg"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Roster Motif Bunga Modern",
+    "slug": "roster-motif-bunga-modern",
+    "image": "/images/products/galprod-53.jpeg",
+    "category": "Motif Floral",
+    "description": "Motif bunga dengan sentuhan modern.",
+    "gallery": [
+      "/images/products/galprod-53.jpeg",
+      "/images/products/galprod-58.jpeg",
+      "/images/products/galprod-59.jpeg",
+      "/images/products/galprod-17.jpeg"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Roster Kotak Premium",
+    "slug": "roster-kotak-premium",
+    "image": "/images/products/galprod-54.jpeg",
+    "category": "Premium",
+    "description": "Motif kotak dengan kualitas premium.",
+    "gallery": [
+      "/images/products/galprod-54.jpeg",
+      "/images/products/galprod-18.jpeg",
+      "/images/products/galprod-19.jpeg",
+      "/images/products/galprod-20.jpeg"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Roster Geometri Unik",
+    "slug": "roster-geometri-unik",
+    "image": "/images/products/galprod-55.jpeg",
+    "category": "Geometri",
+    "description": "Motif geometri yang unik dan menarik.",
+    "gallery": [
+      "/images/products/galprod-55.jpeg",
+      "/images/products/galprod-22.jpeg",
+      "/images/products/galprod-23.jpeg",
+      "/images/products/galprod-24.jpeg"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Roster Minimalis Putih",
+    "slug": "roster-minimalis-putih-2",
+    "image": "/images/products/galprod-56.jpeg",
+    "category": "Minimalis",
+    "description": "Warna putih bersih dengan desain minimalis.",
+    "gallery": [
+      "/images/products/galprod-56.jpeg",
+      "/images/products/galprod-25.jpeg",
+      "/images/products/galprod-26.jpeg",
+      "/images/products/galprod-27.jpeg"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Roster Tradisional Elegan",
+    "slug": "roster-tradisional-elegan",
+    "image": "/images/products/galprod-57.jpeg",
+    "category": "Tradisional",
+    "description": "Desain tradisional dengan sentuhan elegan.",
+    "gallery": [
+      "/images/products/galprod-57.jpeg",
+      "/images/products/galprod-32.jpeg",
+      "/images/products/galprod-33.jpeg",
+      "/images/products/galprod-34.jpeg"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Roster Motif Kotak Modern",
+    "slug": "roster-motif-kotak-modern",
+    "image": "/images/products/galprod-58.jpeg",
+    "category": "Motif Klasik",
+    "description": "Motif kotak dengan desain modern.",
+    "gallery": [
+      "/images/products/galprod-58.jpeg",
+      "/images/products/galprod-35.jpeg",
+      "/images/products/galprod-36.jpeg",
+      "/images/products/galprod-37.jpeg"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Roster Premium Terbaru",
+    "slug": "roster-premium-terbaru",
+    "image": "/images/products/galprod-59.jpeg",
+    "category": "Premium",
+    "description": "Kualitas premium dengan desain terbaru.",
+    "gallery": [
+      "/images/products/galprod-59.jpeg",
+      "/images/products/galprod-39.jpeg",
+      "/images/products/galprod-40.jpeg",
+      "/images/products/galprod-44.jpeg"
+    ]
+  }
+]
