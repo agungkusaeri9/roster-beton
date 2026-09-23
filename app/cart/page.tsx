@@ -4,12 +4,18 @@ import CartClient from "@/components/CartClient";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Keranjang Belanja | CV Roster Purwakarta",
-  description: "Lihat dan kelola keranjang belanja roster beton Anda. Pesan via WhatsApp untuk pengiriman cepat di Plered, Purwakarta.",
-  keywords: "keranjang belanja, pesan roster beton, whatsapp roster, pengiriman roster",
+  title: "Keranjang Belanja Roster Beton | CV Roster Purwakarta",
+  description:
+    "Periksa dan kelola daftar pesanan roster beton berkualitas tinggi Anda. Pesan langsung via WhatsApp dengan harga pabrik bersaing.",
+  keywords:
+    "keranjang belanja roster, pesan roster beton, harga roster beton purwakarta, beli roster plered",
+  alternates: {
+    canonical: "https://rosterbetonpurwakarta.com/cart",
+  },
   openGraph: {
     title: "Keranjang Belanja | CV Roster Purwakarta",
-    description: "Kelola pesanan roster beton Anda dan hubungi kami via WhatsApp untuk proses pemesanan.",
+    description:
+      "Kelola daftar pesanan roster beton pilihan Anda dan hubungi tim kami untuk pengiriman armada pabrik langsung ke lokasi proyek.",
     url: "https://rosterbetonpurwakarta.com/cart",
     siteName: "CV Roster Purwakarta",
     locale: "id_ID",
@@ -19,9 +25,9 @@ export const metadata: Metadata = {
 
 export default function CartPage() {
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="flex flex-col min-h-screen bg-gray-50">
       <Navbar />
-      <main className="flex-1 bg-gray-50 py-12">
+      <main className="flex-1">
         <CartClient />
       </main>
       <Footer />

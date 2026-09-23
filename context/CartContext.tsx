@@ -8,6 +8,9 @@ interface Product {
   name: string;
   image: string;
   category: string;
+  price?: number;
+  slug?: string;
+  dimension?: string;
 }
 
 interface CartItem extends Product {
