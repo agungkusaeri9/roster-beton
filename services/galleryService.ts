@@ -1,4 +1,5 @@
 import apiClient from "@/lib/axios";
+import { formatImageUrl } from "@/lib/imageUtils";
 import { GalleryItem, APIResponse } from "@/types";
 
 /**
@@ -15,7 +16,11 @@ export async function fetchGalleries(category: string = ""): Promise<GalleryItem
       params,
     });
 
-    return response.data?.data || [];
+    const items = response.data?.data || [];
+    return items.map((item) => ({
+      ...item,
+      src: formatImageUrl(item.src),
+    }));
   } catch (error) {
     console.error("Error fetching galleries from backend:", error);
     return [];

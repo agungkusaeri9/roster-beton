@@ -1,4 +1,5 @@
 import apiClient from "@/lib/axios";
+import { formatImageUrl } from "@/lib/imageUtils";
 import { PaginatedProductsResponse, Product, APIResponse } from "@/types";
 
 export interface FetchProductsParams {
@@ -6,6 +7,18 @@ export interface FetchProductsParams {
   limit?: number;
   category?: string;
   search?: string;
+}
+
+function normalizeProduct(product: Product): Product {
+  return {
+    ...product,
+    image: formatImageUrl(product.image),
+    gallery: product.gallery?.map(formatImageUrl),
+    galleries: product.galleries?.map((g) => ({
+      ...g,
+      image_url: formatImageUrl(g.image_url),
+    })),
+  };
 }
 
 /**
@@ -34,6 +47,10 @@ export async function fetchProducts({
     params,
   });
 
+  if (response.data && response.data.data) {
+    response.data.data = response.data.data.map(normalizeProduct);
+  }
+
   return response.data;
 }
 
@@ -43,7 +60,8 @@ export async function fetchProducts({
 export async function fetchProductBySlug(slug: string): Promise<Product | null> {
   try {
     const response = await apiClient.get<APIResponse<Product>>(`/products/${slug}`);
-    return response.data?.data || null;
+    const product = response.data?.data || null;
+    return product ? normalizeProduct(product) : null;
   } catch (error) {
     console.error(`Error fetching product by slug ${slug}:`, error);
     return null;
