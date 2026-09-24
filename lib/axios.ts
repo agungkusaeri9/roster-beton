@@ -3,14 +3,10 @@ import axios from "axios";
 function getBaseUrl() {
   if (typeof window === "undefined") {
     // Server-side (Node.js SSR): prioritas INTERNAL_API_URL untuk Docker network, atau NEXT_PUBLIC_API_URL
-    return (
-      process.env.INTERNAL_API_URL ||
-      process.env.NEXT_PUBLIC_API_URL ||
-      "http://roster-beton-app:8080/api"
-    );
+    return process.env.NEXT_PUBLIC_API_URL;
   }
   // Client-side (Browser)
-  return process.env.NEXT_PUBLIC_API_URL || "http://localhost:5005/api";
+  return process.env.NEXT_PUBLIC_API_URL;
 }
 
 export const apiClient = axios.create({
@@ -35,7 +31,7 @@ apiClient.interceptors.response.use(
       error.message ||
       "Terjadi kesalahan saat menghubungi server";
     return Promise.reject(new Error(message));
-  }
+  },
 );
 
 export default apiClient;
